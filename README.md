@@ -1,4 +1,4 @@
-# [📘] HUDB
+# [📘] HUDB - Browser
 <details open>
 <summary>🌐 Русский</summary>
 
