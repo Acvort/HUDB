@@ -79,7 +79,8 @@
 
 ## [📙] Licensed || Лицензия
 ### -> [CC-BY-NC-SA-4.0](https://github.com/Acvort/HUDB?tab=License-1-ov-file#creative-commons-attribution-non-commercial-share-alike-40-international)
-![CC-BY-NC-SA-4.0](https://github.com/user-attachments/assets/8fa42570-290a-4127-bc80-da12089b5323)
+<img width="1023" height="575" alt="CC-BY-NC-SA-4.0" src="https://github.com/user-attachments/assets/e9bd3225-5b55-4792-b8ec-606a13efb246" />
+
 ## [📥] Stay tuned for updates || Следите за обновлениями
 ### -> [OBS Forums](https://obsproject.com/forum/resources/)
 ## [🔗] Sources || Источники
